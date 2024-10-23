@@ -1,0 +1,19 @@
+﻿Explicação do java script:
+
+
+ 1 Na primeira linha tou obtendo o valor do campo de entrada com o id "nome" e armazenando-o na vavel nome.
+
+
+2 Na segunda linha, eu tou pegando o valor do campo de entrada com o id "email" e armazenando-o na variável email.
+
+
+3 Na quinta linha eu selecionei a tabela com o id "cadastros" que acessa o primeiro <tbody> dessa tabela, armazenando-o na variável tabela.
+
+
+6 Na sexta linha eu estou inserindo uma nova linha (<tr>) na tabela, que essa nova linha é armazenada na variável novaLinha.
+
+
+7 EU  estou inserindo a primeira célula na nova linha e armazenando-a na variável celula1.
+
+
+8 Eu estou inserindo a segunda célula na nova linha e armazenando-a na variável celula2.
